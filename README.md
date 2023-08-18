@@ -1,7 +1,7 @@
-# dash_analitico_vendas_globais
+## dash_analitico_vendas_globais
 dashboard de analise de vendas globais
 
-Nosso Dashboard deve responder as perguntas abaixo:
+#Nosso Dashboard deve responder as perguntas abaixo:
 • Pergunta 1 - Qual o valor total vendido?
 • Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
 • Pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade de 
